@@ -1,0 +1,5 @@
+name: VipSlots
+version: 1.7.2
+description: Allows vips/donors to join if the server is full.
+author: Tehtafara0
+main: me.tehtafara0.vipslots.Main
